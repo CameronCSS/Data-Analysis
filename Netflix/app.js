@@ -47,3 +47,11 @@ function generateImage() {
 exportImage.addEventListener("click", function () {
     generateImage();
   });
+
+const backToIndexButton = document.getElementById('backToIndex');
+backToIndexButton.addEventListener('click', goToIndex);
+
+function goToIndex() {
+  window.location.href = "https://github.com/CameronCSS/PersonalProjects";
+}
+
