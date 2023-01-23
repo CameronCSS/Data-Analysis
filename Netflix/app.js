@@ -7,6 +7,8 @@ const url = "https://public.tableau.com/views/NetflixTVMoviesupto2019/Netflix?:l
 
 const vizContainer = document.getElementById('vizContainer');
 const options = {
+    width: 1800,
+    height: 1000,
     hideTabs: true,
     onFirstInteraction: function() {
         workbook = viz.getWorkbook();
