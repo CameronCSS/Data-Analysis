@@ -3,11 +3,13 @@ console.log('Is this working?');
 let viz;
 
 //Add Share Link to Tableau Public in here
-const url = "https://public.tableau.com/views/NetflixTVMoviesupto2019/Netflix?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link";
+const url = "https://public.tableau.com/views/Squirrels_15746293266160/Dashboard1?:display_count=y&:origin=viz_share_link";
 
 const vizContainer = document.getElementById('vizContainer');
 const options = {
     hideTabs: true,
+    height: 1000,
+    width: 1200,
     onFirstInteraction: function() {
         workbook = viz.getWorkbook();
         activeSheet = workbook.getActiveSheet();
@@ -45,11 +47,3 @@ function generateImage() {
 exportImage.addEventListener("click", function () {
     generateImage();
   });
-
-const backToIndexButton = document.getElementById('backToIndex');
-backToIndexButton.addEventListener('click', goToIndex);
-
-function goToIndex() {
-  window.location.href = "https://github.com/CameronCSS/PersonalProjects";
-}
-
