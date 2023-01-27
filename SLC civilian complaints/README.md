@@ -1,6 +1,6 @@
 ## Introduction
 
-During my search for data on <a href="https://github.com/CameronCSS/PersonalProjects/blob/main/Data%20Analysis/SLC%20Homless%20Data" target="new">homelessness in Salt Lake City</a>, I found that SLC has a website and app where residents can report complaints to the city.
+During my search for data on <a href="https://github.com/CameronCSS/Data-Analysis/tree/main/SLC%20Homless%20Data" target="new">homelessness in Salt Lake City</a>, I found that SLC has a website and app where residents can report complaints to the city.
 
 
 - <a href="https://opendata.utah.gov/"> Website </a>
