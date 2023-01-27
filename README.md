@@ -47,4 +47,4 @@ All of my visual reports, data analysis, and dashboards will be here
 | Email | CameronSeamons@gmail.com |
 | LinkedIn | https://www.linkedin.com/in/cameron-css/|
 | Twitter | https://twitter.com/Cameron_CSS |
-| My Resume | ['Cameron Seamons' Resume PDF'](https://drive.google.com/file/d/19vkbf2HjEpXpxndWYa4A6Dyt6gsnGv73/view?usp=sharing) | 
+| Resume | ['Cameron Seamons' Resume](https://drive.google.com/file/d/19vkbf2HjEpXpxndWYa4A6Dyt6gsnGv73/view?usp=sharing) | 
