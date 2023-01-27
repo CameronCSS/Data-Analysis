@@ -38,7 +38,7 @@ All of my visual reports, data analysis, and dashboards will be here
 
 ----
 
-### <a href="https://github.com/CameronCSS/PersonalProjects">Back to Index</a>
+### <a href="https://github.com/CameronCSS/PersonalProjects">BACK TO INDEX</a>
 
 ## Contact Me
 
