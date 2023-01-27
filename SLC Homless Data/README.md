@@ -9,7 +9,7 @@
 
 ---
 
-### <a href="https://github.com/CameronCSS/PersonalProjects">Back to Index</a>
+### <a href="https://github.com/CameronCSS/PersonalProjects">BACK TO INDEX</a>
 
 ## Contact Me
 
@@ -18,3 +18,4 @@
 | Email | CameronSeamons@gmail.com |
 | LinkedIn | https://www.linkedin.com/in/cameron-css/|
 | Twitter | https://twitter.com/Cameron_CSS |
+| Resume | ['Cameron Seamons' Resume](https://drive.google.com/file/d/19vkbf2HjEpXpxndWYa4A6Dyt6gsnGv73/view?usp=sharing) | 
