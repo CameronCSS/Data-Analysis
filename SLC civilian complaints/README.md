@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 ## Introduction
 
 During my search for data on <a href="https://github.com/CameronCSS/Data-Analysis/tree/main/SLC%20Homless%20Data" target="new">homelessness in Salt Lake City</a>, I found that SLC has a website and app where residents can report complaints to the city.
@@ -41,6 +43,8 @@ When we compare that to the amount of complaints the numbers seem even more skew
 - There were over 150 Unique complaints registered in the app, and over 55,000 Total complaints.
 - The graph makes it very apparent Apple users register a majority of the complaints in SLC
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ![image](https://user-images.githubusercontent.com/121735588/211230862-97982698-43e5-44d0-a2bf-76a837e8bb14.png)
 
 ## Graphic representation of all the complaints registered in Salt Lake City
@@ -51,7 +55,9 @@ When we compare that to the amount of complaints the numbers seem even more skew
 
 ----
 
-### <a href="https://github.com/CameronCSS/PersonalProjects">BACK TO INDEX</a>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### <a href="https://github.com/CameronCSS/PersonalProjects/blob/main/README.md">BACK TO PORTFOLIO</a>
 
 ## Contact Me
 
