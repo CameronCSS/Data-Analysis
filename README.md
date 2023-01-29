@@ -42,7 +42,7 @@ All of my visual reports, data analysis, and dashboards will be here
 
 ----
 
-### <a href="https://github.com/CameronCSS/PersonalProjects">BACK TO INDEX</a>
+### <a href="https://github.com/CameronCSS/PersonalProjects/blob/main/README.md">BACK TO PORTFOLIO</a>
 
 ## Contact Me
 
