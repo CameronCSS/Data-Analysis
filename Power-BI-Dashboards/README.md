@@ -1,5 +1,5 @@
-### Power BI Dashboards
-----
+## Power BI Dashboards
+
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/121735588/216191041-36a243be-b02e-4616-94d5-e9a8ad635be7.png" alt="Logo" width="150" height="150">
@@ -8,7 +8,7 @@
     All my Power BI visuals :bar_chart: and dashboard files are available here!
     <br />
       <br>
-     <sup>[ Dashboard links below ]</sup>
+     <sup>[ Download Links ]</sup>
     <br />
     :small_blue_diamond:
     <a href="https://github.com/CameronCSS/Data-Analysis/blob/main/Power-BI-Dashboards/data%20survey%20results.pbix" target="_blank">Data Professional Survey</a>
@@ -21,11 +21,20 @@
   </p>
 </div>
 
+----
+
+### [ Project Description ]
+
+
+
+
+![image](https://user-images.githubusercontent.com/121735588/216193131-73ca9f39-ed82-466a-8f45-4c33092e3e7f.png)
+
+
 
 
 ----
-
-### View My Other Projects
+## View My Other Projects
     
 <details open>
   <summary>SQL Queries</summary>
