@@ -38,6 +38,7 @@ After having built out the dashboard, I took it a step further to enhance its ap
 
 _{Dashboard Preview}_ :arrow_heading_down:
 <br>
+<br>
 [![image](https://user-images.githubusercontent.com/121735588/216193131-73ca9f39-ed82-466a-8f45-4c33092e3e7f.png)](https://github.com/CameronCSS/Data-Analysis/raw/main/Power-BI-Dashboards/Data%20Professional%20Survey/data%20survey%20results.pbix)
 
 
