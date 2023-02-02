@@ -7,12 +7,11 @@
   <p align="center">
     All my Power BI visuals :bar_chart: and dashboard files are available here!
     <br />
-      <br>
-     <sup>[ Download Links ]</sup>
-    <br />
-    :small_blue_diamond:
-    <a href="https://github.com/CameronCSS/Data-Analysis/raw/main/Power-BI-Dashboards/data%20survey%20results.pbix" target="_blank">Data Professional Survey</a>
-
+   <br><sup>:arrow_down: [Download Links] :arrow_down:
+   <br> 
+       :small_blue_diamond:
+   <a href="https://github.com/CameronCSS/Data-Analysis/raw/main/Power-BI-Dashboards/data%20survey%20results.pbix" target="_blank">Data Professional Survey</a></sup>
+  <br>
   <br>
    <sub><a href="#Contact">:wavy_dash: Contact Info :wavy_dash:</a></sub>
 <br>
@@ -23,12 +22,19 @@
 
 ----
 
+## Data Professional Survey
+
 ### [ Project Description ]
 
+<a href="https://www.youtube.com/@AlexTheAnalyst">Alex the Analyst</a> conducted a survey among 630 participants in the data technology field to gather insights. The survey results were imported into Power BI, where they were processed, cleaned and transformed to be ready for visualization.
+
+After having built out the dashboard, I took it a step further to enhance its appearance. You can download the dashboard <a href="https://github.com/CameronCSS/Data-Analysis/raw/main/Power-BI-Dashboards/data%20survey%20results.pbix">HERE.</a>
+<br>
 
 
-
-![image](https://user-images.githubusercontent.com/121735588/216193131-73ca9f39-ed82-466a-8f45-4c33092e3e7f.png)
+_{Dashboard Preview}_ :arrow_heading_down:
+<br>
+[![image](https://user-images.githubusercontent.com/121735588/216193131-73ca9f39-ed82-466a-8f45-4c33092e3e7f.png)](https://github.com/CameronCSS/Data-Analysis/raw/main/Power-BI-Dashboards/data%20survey%20results.pbix)
 
 
 
