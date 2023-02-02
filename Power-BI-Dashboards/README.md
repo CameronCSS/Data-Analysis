@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 ## Power BI Dashboards
 
 <div align="center">
@@ -37,10 +38,10 @@ _{Dashboard Preview}_ :arrow_heading_down:
 [![image](https://user-images.githubusercontent.com/121735588/216193131-73ca9f39-ed82-466a-8f45-4c33092e3e7f.png)](https://github.com/CameronCSS/Data-Analysis/raw/main/Power-BI-Dashboards/data%20survey%20results.pbix)
 
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ----
-## View My Other Projects
+### View My Other Projects
     
 <details open>
   <summary>SQL Queries</summary>
@@ -57,8 +58,10 @@ _{Dashboard Preview}_ :arrow_heading_down:
 <a href="https://github.com/CameronCSS/Programming-Languages/tree/main/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
 </details>
 
-
 ----
+
+<a href="https://github.com/CameronCSS/PersonalProjects/blob/main/README.md"><strong>« Back to Portfolio</strong></a>
+
 <a name="Contact"></a> 
 
 ## Contact Me
@@ -79,3 +82,5 @@ _{Dashboard Preview}_ :arrow_heading_down:
     </a>
   </p>
 </div>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
