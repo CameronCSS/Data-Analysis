@@ -30,7 +30,7 @@
 <a href="https://www.youtube.com/@AlexTheAnalyst">Alex the Analyst</a> conducted a survey among 630 participants in the data technology field to gather insights. The survey results were imported into Power BI, where they were processed, cleaned and transformed to be ready for visualization.
 
 After having built out the dashboard, I took it a step further to enhance its appearance.
-<br> You can view the interactive dashboard <a href="https://app.powerbi.com/reportEmbed?reportId=9e4f41e7-2fe2-4e59-aade-0adc90ac6e98&autoAuth=true&ctid=ac060c52-a55a-40ca-9f98-cef91bfc7881">HERE</a>
+<br> You can view the interactive dashboard <a href="https://cameroncss.github.io/Data-Analysis/Power-BI-Dashboards/Data%20Professional%20Survey/index.html">HERE</a>
 <br>or
 <br>You can download the dashboard <a href="https://github.com/CameronCSS/Data-Analysis/raw/main/Power-BI-Dashboards/Data%20Professional%20Survey/data%20survey%20results.pbix">HERE.</a>
 <br>
