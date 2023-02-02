@@ -25,8 +25,6 @@
 
 ## Data Professional Survey
 
-### [ Project Description ]
-
 <a href="https://www.youtube.com/@AlexTheAnalyst">Alex the Analyst</a> conducted a survey among 630 participants in the data technology field to gather insights. The survey results were imported into Power BI, where they were processed, cleaned and transformed to be ready for visualization.
 
 After having built out the dashboard, I took it a step further to enhance its appearance.
