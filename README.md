@@ -2,7 +2,7 @@
 <div align="center">
 
   <img src="https://user-images.githubusercontent.com/121735588/216512133-876af3f7-ca41-4c29-aa59-b24412e2fd7d.png" alt="SQLLogo" width="200" height="200">
-	<br><a href="https://github.com/CameronCSS/PersonalProjects/blob/main/README.md"><strong><sub>« Back to Portfolio</sub></strong></a>
+
 
 
   <h2 align="center">Data Analysis / Visuals</h2>
@@ -11,6 +11,7 @@
    <br> <sub><a href="#Contact">:wavy_dash: Contact Info :wavy_dash:</a></sub>
 <br>
     <br>
+     <a href="https://github.com/CameronCSS/PersonalProjects/blob/main/README.md"><strong>« Back to Portfolio</strong></a>
   </p>
 </div>
 
