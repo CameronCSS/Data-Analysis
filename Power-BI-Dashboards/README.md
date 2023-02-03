@@ -93,8 +93,6 @@ _{Dashboard Preview}_ :arrow_heading_down:
 
 ----
 
-<a href="https://github.com/CameronCSS/PersonalProjects/blob/main/README.md"><strong>« Back to Portfolio</strong></a>
-
 <a name="Contact"></a> 
 
 ## Contact Me
