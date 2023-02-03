@@ -69,6 +69,8 @@
 <details>
 <summary>Programming Projects / Code</summary>
 <a href="https://github.com/CameronCSS/Programming-Languages/tree/main/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
+
+:arrow_right_hook: - Learned the power of Pandas and PyQt5 libraries. Also learned the importance of notating code for Bug fixing in the future.
 </details>
 
 
