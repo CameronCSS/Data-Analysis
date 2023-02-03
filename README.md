@@ -1,42 +1,72 @@
-# Data Analysis / Visuals
+<a name="readme-top"></a>
+<div align="center">
 
-All of my visual reports, data analysis, and dashboards will be here
+  <img src="https://user-images.githubusercontent.com/121735588/216512133-876af3f7-ca41-4c29-aa59-b24412e2fd7d.png" alt="SQLLogo" width="200" height="200">
+	<br><a href="https://github.com/CameronCSS/PersonalProjects/blob/main/README.md"><strong><sub>« Back to Portfolio</sub></strong></a>
 
-<details open>
-  <summary>Data Analysis / Visuals Projects</summary>
+
+  <h2 align="center">Data Analysis / Visuals</h2>
+  <p align="center">
+  All of my visual reports :bar_chart:, and data analysis :mag: will be here.
+   <br> <sub><a href="#Contact">:wavy_dash: Contact Info :wavy_dash:</a></sub>
+<br>
+    <br>
+  </p>
+</div>
+
+## Data Analysis Experience
+:ballot_box_with_check: Power BI / Tableau Visual Reports
+<br> :ballot_box_with_check: Data Cleaning and transforming
+<br> :ballot_box_with_check: API pulls and database building
+<br> :ballot_box_with_check: Full analysis and reports on data
+<br> :ballot_box_with_check: Buidling finished Dashboards
+
+## Data Analysis / Visuals Projects
 <a href="https://github.com/CameronCSS/Data-Analysis/tree/main/Power-BI-Dashboards" target="new">Power BI Dashboards</a>
 <br>
-<a href="https://cameroncss.github.io/Data-Analysis/Netflix/index.html" target="new">Netflix Movies and TV Shows</a><em> *Interactive Tableau Dashboard</em>
+:arrow_right_hook: - Collection of my Power BI projects/dashboards with detailed analysis and visually appealing data.
 <br>
+<br>
+<a href="https://cameroncss.github.io/Data-Analysis/Netflix/index.html" target="new">Netflix Movies and TV Shows</a>
+<br>
+:arrow_right_hook: - Built out multiple sheets to display on a single visual, and created an interactive dashboard.
+<br>	
+<br>	
 <a href="https://github.com/CameronCSS/Data-Analysis/tree/main/Sales%20Performance%20Review" target="new">Sales Performance Review</a>
 <br>
+:arrow_right_hook: - Used Power BI to clean and organize data to present to upper management about previous years sales performance.
+<br>	
+<br>
 <a href="https://github.com/CameronCSS/Data-Analysis/tree/main/SLC%20civilian%20complaints" target="new">SLC civilian complaints</a>
+  <br>
+:arrow_right_hook: - Utilized API calls to gather data from public sources. Built a local DB to use in Power BI to uncover valuable insights.
+  <br>
 
-
-</details>
-
-## Experience
-
-   - Power BI / Tableau Visual Reports
-   - Case study and data breakdowns
-   - API pulls and database building
-   - Full analysis and reports on data
-   - Buidling finished Dashboards
 ----
 
 ### View My Other Projects
     
-<details open>
+<details>
   <summary>SQL Queries</summary>
 <a href="https://github.com/CameronCSS/SQL-Queries/tree/main/8%20Week%20SQL%20Challenge%20%23%201" target="new">8 Week SQL Challenge # 1</a>
 <br>
+:arrow_right_hook: - Explored complex queries to clean data, compute customer figures, and organize data in unusual ways.
+<br>
+<br>
 <a href="https://github.com/CameronCSS/SQL-Queries/tree/main/Khan%20Academy%20Advanced%20SQL" target="new">Khan Academy Advanced SQL</a>
 <br>
+:arrow_right_hook: - Expand SQL knowledge about combining tables with JOINs and using multiple queries at once.
+<br>
+<br>
 <a href="https://github.com/CameronCSS/SQL-Queries/tree/main/SQLbolt%20-%20SQL%20lessons" target="new">SQLbolt - SQL lessons</a>
+<br>
+:arrow_right_hook: - Refreshed foundational understanding of SQL and discovered context variations among SQL-powered platforms.
+<br>
+
 </details>
     
 <br>
-<details open>
+<details>
 <summary>Programming Projects / Code</summary>
 <a href="https://github.com/CameronCSS/Programming-Languages/tree/main/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
 </details>
@@ -46,6 +76,7 @@ All of my visual reports, data analysis, and dashboards will be here
 
 <a href="https://github.com/CameronCSS/PersonalProjects/blob/main/README.md"><strong>« Back to Portfolio</strong></a>
 
+<a name="Contact"></a> 
 ## Contact Me
 
 <div style="display: flex;">
@@ -64,3 +95,5 @@ All of my visual reports, data analysis, and dashboards will be here
     </a>
   </p>
 </div>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
