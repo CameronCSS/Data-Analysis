@@ -46,6 +46,25 @@ _{Dashboard Preview}_ :arrow_heading_down:
 ### View My Other Projects
     
 <details>
+<summary>Data Analysis / Visuals Projects</summary>
+<a href="https://cameroncss.github.io/Data-Analysis/Netflix/index.html" target="new">Netflix Movies and TV Shows</a>
+<br>
+&nbsp; &nbsp;:arrow_right_hook: - Built out multiple sheets to display on a single visual, and created an interactive dashboard.
+<br>	
+<br>	
+<a href="https://github.com/CameronCSS/Data-Analysis/tree/main/Sales%20Performance%20Review" target="new">Sales Performance Review</a>
+<br>
+&nbsp; &nbsp;:arrow_right_hook: - Used Power BI to clean and organize data to present to upper management about previous years sales performance.
+<br>	
+<br>
+<a href="https://github.com/CameronCSS/Data-Analysis/tree/main/SLC%20civilian%20complaints" target="new">SLC civilian complaints</a>
+  <br>
+&nbsp; &nbsp;:arrow_right_hook: - Utilized API calls to gather data from public sources. Built a local DB to use in Power BI to uncover valuable insights.
+  <br>
+</details>
+<br>
+
+<details>
   <summary>SQL Queries</summary>
 <a href="https://github.com/CameronCSS/SQL-Queries/tree/main/8%20Week%20SQL%20Challenge%20%23%201" target="new">8 Week SQL Challenge # 1</a>
 <br>
