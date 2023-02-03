@@ -1,10 +1,10 @@
 <a name="readme-top"></a>
-## Power BI Dashboards
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/121735588/216191041-36a243be-b02e-4616-94d5-e9a8ad635be7.png" alt="Logo" width="150" height="150">
 
+  <h2 align="center">Power BI Dashboards</h2>
   <p align="center">
     All my Power BI visuals :bar_chart: and dashboard files are available here!
     <br />
@@ -21,14 +21,14 @@
   </p>
 </div>
 
-----
 
 ## Data Professional Survey
+----
 
 <a href="https://www.youtube.com/@AlexTheAnalyst">Alex the Analyst</a> conducted a survey among 630 participants in the data technology field to gather insights. The survey results were imported into Power BI, where they were processed, cleaned and transformed to be ready for visualization.
 
 After having built out the dashboard, I took it a step further to enhance its appearance.
-<br> You can view the interactive dashboard <a href="https://app.powerbi.com/reportEmbed?reportId=9e4f41e7-2fe2-4e59-aade-0adc90ac6e98&autoAuth=true&ctid=ac060c52-a55a-40ca-9f98-cef91bfc7881">HERE</a>
+<br> You can view the interactive dashboard <a href="https://app.powerbi.com/reportEmbed?reportId=9e4f41e7-2fe2-4e59-aade-0adc90ac6e98&autoAuth=true&ctid=ac060c52-a55a-40ca-9f98-cef91bfc7881">HERE*</a><em><sub><sup> *You will have to sign into Power BI</sup></sub></em>
 <br>or
 <br>You can download the dashboard <a href="https://github.com/CameronCSS/Data-Analysis/raw/main/Power-BI-Dashboards/Data%20Professional%20Survey/data%20survey%20results.pbix">HERE.</a>
 <br>
@@ -45,19 +45,31 @@ _{Dashboard Preview}_ :arrow_heading_down:
 ----
 ### View My Other Projects
     
-<details open>
+<details>
   <summary>SQL Queries</summary>
 <a href="https://github.com/CameronCSS/SQL-Queries/tree/main/8%20Week%20SQL%20Challenge%20%23%201" target="new">8 Week SQL Challenge # 1</a>
 <br>
+&nbsp; &nbsp;:arrow_right_hook: - Explored complex queries to clean data, compute customer figures, and organize data in unusual ways.
+<br>
+<br>
 <a href="https://github.com/CameronCSS/SQL-Queries/tree/main/Khan%20Academy%20Advanced%20SQL" target="new">Khan Academy Advanced SQL</a>
 <br>
+&nbsp; &nbsp;:arrow_right_hook: - Expand SQL knowledge about combining tables with JOINs and using multiple queries at once.
+<br>
+<br>
 <a href="https://github.com/CameronCSS/SQL-Queries/tree/main/SQLbolt%20-%20SQL%20lessons" target="new">SQLbolt - SQL lessons</a>
+<br>
+&nbsp; &nbsp;:arrow_right_hook: - Refreshed foundational understanding of SQL and discovered context variations among SQL-powered platforms.
+<br>
+
 </details>
     
 <br>
-<details open>
+<details>
 <summary>Programming Projects / Code</summary>
 <a href="https://github.com/CameronCSS/Programming-Languages/tree/main/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
+
+&nbsp; &nbsp;:arrow_right_hook: - Learned the power of Pandas and PyQt5 libraries. Also learned the importance of notating code for Bug fixing in the future.
 </details>
 
 ----
