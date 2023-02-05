@@ -17,9 +17,9 @@
 
 ## Data Analysis Experience
 :ballot_box_with_check: Power BI / Tableau Visual Reports
-<br> :ballot_box_with_check: Data Cleaning and transforming
-<br> :ballot_box_with_check: API pulls and database building
-<br> :ballot_box_with_check: Full analysis and reports on data
+<br> :ballot_box_with_check: Data Cleaning and transformation
+<br> :ballot_box_with_check: API pulls and Database development
+<br> :ballot_box_with_check: Data Analysis and Reporting
 <br> :ballot_box_with_check: Buidling Live Dashboards
 
 ## Data Analysis / Visuals Projects
