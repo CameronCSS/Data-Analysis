@@ -8,7 +8,7 @@
   <p align="center">
     All my Power BI visuals :bar_chart: and dashboard files are available here!
     <br />
-   <br><sup>:arrow_down: [Download Links] :arrow_down:
+   <br><sup>:arrow_down: [Download pbix] :arrow_down:
    <br> 
        :small_blue_diamond:
    <a href="https://github.com/CameronCSS/Data-Analysis/raw/main/Power-BI-Dashboards/Data%20Professional%20Survey/data%20survey%20results.pbix" target="_blank">Data Professional Survey</a></sup>
