@@ -20,7 +20,7 @@
 <br> :ballot_box_with_check: Data Cleaning and transforming
 <br> :ballot_box_with_check: API pulls and database building
 <br> :ballot_box_with_check: Full analysis and reports on data
-<br> :ballot_box_with_check: Buidling finished Dashboards
+<br> :ballot_box_with_check: Buidling Live Dashboards
 
 ## Data Analysis / Visuals Projects
 <a href="https://github.com/CameronCSS/Data-Analysis/tree/main/Power-BI-Dashboards" target="new">Power BI Dashboards</a>
