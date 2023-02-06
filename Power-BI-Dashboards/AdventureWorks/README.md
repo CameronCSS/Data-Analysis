@@ -16,6 +16,7 @@
 <details>
   <summary>Table of Contents</summary>
     <ul>
+    <li><a href="#Intro">Intro</a></li>
     <li><a href="#Preparing">Preparing the Database</a></li>
     <li><a href="#Identify">Identify Data Needs</a></li>
     <li><a href="#Cleaning">Data Cleaning</a></li>
@@ -31,6 +32,7 @@
 
 <br>
 
+<a name="Intro"></a>
 ## Adventure Works Sample Database
 
 AdventureWorks<sup>*</sup> is a sample relational database used to demonstrate features of Microsoft SQL Server. 
