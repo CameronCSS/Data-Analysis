@@ -40,6 +40,10 @@ AdventureWorks<sup>*</sup> is a sample relational database used to demonstrate f
 <br>
 <br>
 :construction: We will be using the 'Adventure Works database' in a simulated business scenario to create a dashboard to present to a fictional manager.
+<br>
+<br><em><sup>If you would to skip the breakdown you can download the report here.</sup></em>
+<sup>  :arrow_right:
+<a href="https://github.com/CameronCSS/Data-Analysis/raw/main/Power-BI-Dashboards/AdventureWorks/Sales%20report.pbix" target="_blank">Download Sales Report .pbix</a></sup>
 
 ##
 
