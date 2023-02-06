@@ -1,3 +1,18 @@
+<a name="readme-top"></a>
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/121735588/216897500-3d7e2149-1de5-4c23-939f-db423af70d6a.png" alt="Logo" height="200">
+
+
+   <sub><a href="#Contact">:wavy_dash: Contact Info :wavy_dash:</a></sub>
+<br>
+    <br>
+     <a href="https://github.com/CameronCSS/Data-Analysis/blob/main/Power-BI-Dashboards/README.md"><strong>« Back to Power BI dashboards</strong></a>
+  </p>
+</div>
+
+<br>
+
 ## Data Professional Survey
 
 <a href="https://www.youtube.com/@AlexTheAnalyst">Alex the Analyst</a> conducted a survey among 630 participants in the data technology field to gather insights. The survey results were imported into Power BI, where they were processed, cleaned and transformed to be ready for visualization.
