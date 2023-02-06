@@ -8,10 +8,13 @@
   <p align="center">
     All my Power BI visuals :bar_chart: and dashboard files are available here!
     <br />
-   <br><sup>:arrow_down: [Download pbix] :arrow_down:
+   <br><sup>:arrow_down: [Download pbix] :arrow_down:</sup>
    <br> 
-       :small_blue_diamond:
+      <sup> :small_blue_diamond:
    <a href="https://github.com/CameronCSS/Data-Analysis/raw/main/Power-BI-Dashboards/Data%20Professional%20Survey/data%20survey%20results.pbix" target="_blank">Data Professional Survey</a></sup>
+<br>
+     <sup>  :small_blue_diamond:
+   <a href="https://github.com/CameronCSS/Data-Analysis/raw/main/Power-BI-Dashboards/AdventureWorks/Sales%20report.pbix" target="_blank">Adventure Works Sales Report</a></sup>
   <br>
   <br>
    <sub><a href="#Contact">:wavy_dash: Contact Info :wavy_dash:</a></sub>
