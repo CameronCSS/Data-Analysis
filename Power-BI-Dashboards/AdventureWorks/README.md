@@ -13,6 +13,27 @@
   </p>
 </div>
 
+<br>
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+    <ul>
+    <li><a href="#Preparing">Preparing the Database</a></li>
+    <li><a href="#Identify">Identify Data Needs</a></li>
+    <li><a href="#Cleaning">Data Cleaning</a></li>
+    <li><a href="#Transform">Data Transform/Import</a></li>
+    <li><a href="#Creating">Creating the Dashboard</a></li>
+    <li><a href="#Publish">Final touches and Publish</a></li>
+    <li><a href="#Finished">Finish / Publish to Power BI services</a></li>
+    <li><a href="#Contact">Contact</a></li>
+    <li><a href="#Contact">Resume</a></li>
+    </ul>
+</details>
+
+
+<br>
+
 ## Adventure Works Sample Database
 
 AdventureWorks<sup>*</sup> is a sample relational database used to demonstrate features of Microsoft SQL Server. 
@@ -25,6 +46,7 @@ AdventureWorks<sup>*</sup> is a sample relational database used to demonstrate f
 
 ##
 
+<a name="Preparing"></a>
 ### Preparing the Database
 ----
 :one::heavy_minus_sign: First we restore the .bak file and bring the database into Microsoft SQL Server.
@@ -48,6 +70,7 @@ FROM AdventureWorksDW2019.dbo.DimCustomer;
  
 </details>
 
+<a name="Identify"></a>
 ### Identify Data Needs
 ----
 
@@ -58,7 +81,8 @@ FROM AdventureWorksDW2019.dbo.DimCustomer;
 <details>
   <summary>View Manager's Email</summary>
   
- ![image](https://user-images.githubusercontent.com/121735588/216800211-865e99c8-3f39-40b5-9a1c-e5a7ae7b6790.png)
+![manager email](https://user-images.githubusercontent.com/121735588/216856570-f1cda79f-b9d7-42fa-8f5a-1702d5295d21.png)
+
   
 </details>
 
@@ -75,6 +99,7 @@ FROM AdventureWorksDW2019.dbo.DimCustomer;
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<a name="Cleaning"></a>
 ### Data Cleaning
 ----
 
@@ -104,6 +129,7 @@ FROM AdventureWorksDW2019.dbo.DimCustomer;
 
 </details>
 
+<a name="Transform"></a>
 ### Data Transform/Import
 ----
 
@@ -150,13 +176,85 @@ FROM AdventureWorksDW2019.dbo.DimCustomer;
 
 </details>
 
+:eight::heavy_minus_sign: Before we start building our dashboard we need to make sure all the Data Relations are set up correctly.
+<details>
+  <summary>View Data Relationships</summary>
+  
+  ![image](https://user-images.githubusercontent.com/121735588/216849187-54e79ef8-e23b-4d90-a271-ab2ebf1e39e4.png)
+
+  </details>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<a name="Creating"></a>
 ### Creating the Dashboard
 ----
+  
+  :nine::heavy_minus_sign: Next we start building the dashboard and adding data we want to view, while keeping our end goal in mind.
+  <details>
+  <summary>View First Draft of our Dashboard</summary>
+  <br>
+  
+![image](https://user-images.githubusercontent.com/121735588/216849675-ae3216bc-cb6f-4393-81e1-7bf38f0aa4a0.png)
 
-:eight::heavy_minus_sign: WORK IN PROGRESS
+  </details>
+  
+ :keycap_ten::heavy_minus_sign: The general guideline for dashboard design is to keep the number of visuals to a minimum, typically no more than 6-7. The reason for this is to avoid overwhelming the user with too much information, and to ensure that each visualization effectively communicates its message.
+ 
+ <br> Our current dashboard already utilized 6 visuals, let's create another page to provide additional space for a more detailed analysis of the data.
+ <br>
+ 
+ ![image](https://user-images.githubusercontent.com/121735588/216849917-09e9b04a-3412-41f4-919a-e204be219bf8.png)
 
+ :one::one::heavy_minus_sign: Next we need to build out our other pages and finalize our overall design.
+ 
+ <details>
+ <summary>View First Draft of our other Page</summary>
+  <br>
+  :heavy_minus_sign:
+  
+ ![image](https://user-images.githubusercontent.com/121735588/216850801-bfdc7100-8de2-47d6-b01b-6d757e7691fa.png)
+
+  :heavy_minus_sign:
+  <br>
+  </details>
+
+<a name="Publish"></a>
+### Final touches and Publish
+----
+
+:one::two::heavy_minus_sign: Before you present the data it is a good idea to go through and check for errors, and remove any unnecessary data.
+
+:heavy_minus_sign:
+
+:one::three::heavy_minus_sign: Finally we add some spark :sparkles: with a few navigation buttons, some color themes that look good, and organize our visuals.
+
+:checkered_flag::checkered_flag:
+
+<a name="Finished"></a>
+### FINISHED!
+
+## Publish to Power BI services
+
+Now we just publish our dashboard, and send it to the appropriate parties.
+
+ <details>
+ <summary>View the final dashboard</summary>
+<br>
+View the <a href ="https://app.powerbi.com/reportEmbed?reportId=b0fcfc95-aa85-4802-b47f-7e0fb300a481&autoAuth=true&ctid=ac060c52-a55a-40ca-9f98-cef91bfc7881">Final Sales Report</a> on Power BI Web services. <sub><sup>*You will need to sign in to Power BI</sub></sup>
+  <br>
+  :heavy_minus_sign: 
+  <br>
+  <br>
+  [Dashboard Preivew] :arrow_heading_down:
+  <br>
+  <br>
+  
+  ![image](https://user-images.githubusercontent.com/121735588/216891607-ff81e7a6-bf0b-4e6a-9531-7898513d155d.png)
+
+  
+  
+</details>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
