@@ -241,7 +241,7 @@ FROM AdventureWorksDW2019.dbo.DimCustomer;
 
 Now we just publish our dashboard, and send it to the appropriate parties.
 
- <details>
+ <details open>
  <summary>View the final dashboard</summary>
 <br>
 View the <a href ="https://app.powerbi.com/reportEmbed?reportId=b0fcfc95-aa85-4802-b47f-7e0fb300a481&autoAuth=true&ctid=ac060c52-a55a-40ca-9f98-cef91bfc7881">Final Sales Report</a> on Power BI Web services. <sub><sup>*You will need to sign in to Power BI</sub></sup>
