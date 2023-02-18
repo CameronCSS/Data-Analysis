@@ -9,13 +9,9 @@
 
 ---
 
-### <a href="https://github.com/CameronCSS/PersonalProjects/blob/main/README.md">BACK TO PORTFOLIO</a>
+<a href="https://github.com/CameronCSS/Data-Analysis/blob/main/README.md"><strong>« Back to Data Projects</strong></a>
+<br>
+<br>
+<a href="https://github.com/CameronCSS/PersonalProjects/blob/main/README.md"><strong>« Back to Portfolio</strong></a>
 
-## Contact Me
-
-| Contact Method | Link |
-| --- | --- |
-| Email | CameronSeamons@gmail.com |
-| LinkedIn | https://www.linkedin.com/in/cameron-css/|
-| Twitter | https://twitter.com/Cameron_CSS |
-| Resume | ['Cameron Seamons' Resume](https://drive.google.com/file/d/19vkbf2HjEpXpxndWYa4A6Dyt6gsnGv73/view?usp=sharing) | 
+## <a href="https://cameroncss.com/#contact">Contact Me</a>
