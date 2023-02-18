@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/121735588/216799897-0faa63e3-daa7-4091-8ec5-4a639239cb64.png)
 
-   <sub><a href="#Contact">:wavy_dash: Contact Info :wavy_dash:</a></sub>
+  <sub><a href="https://cameroncss.com/#contact">:wavy_dash: Contact me :wavy_dash:</a></sub>
 <br>
     <br>
      <a href="https://github.com/CameronCSS/Data-Analysis/blob/main/Power-BI-Dashboards/README.md"><strong>« Back to Power BI dashboards</strong></a>
