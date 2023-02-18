@@ -16,8 +16,7 @@
      <sup>  :small_blue_diamond:
    <a href="https://github.com/CameronCSS/Data-Analysis/raw/main/Power-BI-Dashboards/AdventureWorks/Sales%20report.pbix" target="_blank">Adventure Works Sales Report</a></sup>
   <br>
-  <br>
-   <sub><a href="#Contact">:wavy_dash: Contact Info :wavy_dash:</a></sub>
+  <sub><a href="https://cameroncss.com/#contact">:wavy_dash: Contact me :wavy_dash:</a></sub>
 <br>
     <br>
      <a href="https://github.com/CameronCSS/PersonalProjects/blob/main/README.md"><strong>« Back to Portfolio</strong></a>
