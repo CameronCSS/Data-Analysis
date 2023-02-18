@@ -47,12 +47,14 @@ _{Dashboard Preview}_ :arrow_heading_down:
 [![image](https://user-images.githubusercontent.com/121735588/216193131-73ca9f39-ed82-466a-8f45-4c33092e3e7f.png)](https://app.powerbi.com/reportEmbed?reportId=9e4f41e7-2fe2-4e59-aade-0adc90ac6e98&autoAuth=true&ctid=ac060c52-a55a-40ca-9f98-cef91bfc7881)
 
 </details>
+<br>
+<br>
+<br>
+
 <a href="https://github.com/CameronCSS/Data-Analysis/blob/main/Power-BI-Dashboards/AdventureWorks/README.md" target="new">Adventure Works Dashboard</a>
 <br>
 &nbsp; &nbsp;:arrow_right_hook: - Created a dashboard for a fictional manager using the Adventure Works sample database, which involved restoring the database, identifying data needs, cleaning and transforming the data, and importing it into Power BI.
 
-<br>
-<br>
 <details>
 <summary>View Adventure Works Dashboard Preview</summary>
 <br>
@@ -106,8 +108,14 @@ _{Dashboard Preview}_ :arrow_heading_down:
 <details>
 <summary>Programming Projects / Code</summary>
 <a href="https://github.com/CameronCSS/Programming-Languages/tree/main/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
-
+<br>
 &nbsp; &nbsp;:arrow_right_hook: - Learned the power of Pandas and PyQt5 libraries. Also learned the importance of notating code for Bug fixing in the future.
+<br>
+<br>
+<a href="https://github.com/CameronCSS/Programming-Languages/tree/main/R-Basics" target="new">R* Basics</a>
+<br>
+&nbsp; &nbsp;:arrow_right_hook: - Made a full breakdown detailing the basic functions and uses of the R* programming language.
+<br>
 </details>
 
 ----
