@@ -35,6 +35,7 @@
 <br>
 &nbsp; &nbsp;:arrow_right_hook: - Explored complex queries to clean data, compute customer figures, and organize data in unusual ways.
 
+<sub>**Click arrow to view content*</sub>
 <details>
 <summary>View Survey Dashboard Preview</summary>
 <br>
@@ -54,6 +55,7 @@ _{Dashboard Preview}_ :arrow_heading_down:
 <br>
 &nbsp; &nbsp;:arrow_right_hook: - Created a dashboard for a fictional manager using the Adventure Works sample database, which involved restoring the database, identifying data needs, cleaning and transforming the data, and importing it into Power BI.
 
+<sub>**Click arrow to view content*</sub>
 <details>
 <summary>View Adventure Works Dashboard Preview</summary>
 <br>
@@ -69,7 +71,8 @@ _{Dashboard Preview}_ :arrow_heading_down:
 
 ----
 ### View My Other Projects
-    
+<sub>**Click arrow to view content*</sub>
+
 <details>
 <summary>Data Analysis / Visuals Projects</summary>
 <a href="https://cameroncss.github.io/Data-Analysis/Netflix/index.html" target="new">Netflix Movies and TV Shows</a>
