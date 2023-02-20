@@ -34,7 +34,8 @@ _{Dashboard Preview}_ :arrow_heading_down:
 
 ----
 ### View My Other Projects
-    
+<sub>**Click arrow to view content*</sub>
+
 <details>
 <summary>Data Analysis / Visuals Projects</summary>
 <a href="https://cameroncss.github.io/Data-Analysis/Netflix/index.html" target="new">Netflix Movies and TV Shows</a>
