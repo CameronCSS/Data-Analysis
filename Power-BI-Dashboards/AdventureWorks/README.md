@@ -263,7 +263,8 @@ View the <a href ="https://app.powerbi.com/reportEmbed?reportId=b0fcfc95-aa85-48
 
 ----
 ### View My Other Projects
-    
+<sub>**Click arrow to view content*</sub>
+
 <details>
 <summary>Data Analysis / Visuals Projects</summary>
 <a href="https://cameroncss.github.io/Data-Analysis/Netflix/index.html" target="new">Netflix Movies and TV Shows</a>
