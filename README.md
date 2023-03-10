@@ -22,12 +22,61 @@
 <br> :ballot_box_with_check: Data Analysis and Reporting
 <br> :ballot_box_with_check: Buidling Live Dashboards
 
-## Data Analysis / Visuals Projects
-<a href="https://github.com/CameronCSS/Data-Analysis/tree/main/Power-BI-Dashboards" target="new">Power BI Dashboards</a>
+
+# <a href="https://github.com/CameronCSS/Data-Analysis/tree/main/Power-BI-Dashboards" target="new">Power BI</a>
+
+
+### Power BI Experience
+:ballot_box_with_check: Experience in building multiple dashboards, including live dashboards
+ <br> :ballot_box_with_check: Knowledge in using various dataflow and import methods to showcase live data
+ <br> :ballot_box_with_check: Developed reports for company management showcasing sales performance over the last four years.
+ <br> :ballot_box_with_check: Completed the DataCamp Intro to Power BI course
+ 
+### Power BI Projects
+
+<a href="https://github.com/CameronCSS/Data-Analysis/blob/main/Power-BI-Dashboards/Data%20Professional%20Survey/README.md" target="new">Data Professional Survey</a>
 <br>
-&nbsp; &nbsp;:arrow_right_hook: - Collection of my Power BI projects/dashboards with detailed analysis and visually appealing data.
+&nbsp; &nbsp;:arrow_right_hook: - Explored complex queries to clean data, compute customer figures, and organize data in unusual ways.
+
+<sub>**Click arrow to view content*</sub>
+<details>
+<summary>View Survey Dashboard Preview</summary>
+<br>
+
+_{Dashboard Preview}_ :arrow_heading_down:
 <br>
 <br>
+
+[![image](https://user-images.githubusercontent.com/121735588/216193131-73ca9f39-ed82-466a-8f45-4c33092e3e7f.png)](https://app.powerbi.com/reportEmbed?reportId=9e4f41e7-2fe2-4e59-aade-0adc90ac6e98&autoAuth=true&ctid=ac060c52-a55a-40ca-9f98-cef91bfc7881)
+
+</details>
+<br>
+
+
+<a href="https://github.com/CameronCSS/Data-Analysis/blob/main/Power-BI-Dashboards/AdventureWorks/README.md" target="new">Adventure Works Dashboard</a>
+<br>
+&nbsp; &nbsp;:arrow_right_hook: - Created a dashboard for a fictional manager using the Adventure Works sample database, which involved restoring the database, identifying data needs, cleaning and transforming the data, and importing it into Power BI.
+
+<sub>**Click arrow to view content*</sub>
+<details>
+<summary>View Adventure Works Dashboard Preview</summary>
+<br>
+
+_{Dashboard Preview}_ :arrow_heading_down:
+<br>
+<br>
+
+  ![image](https://user-images.githubusercontent.com/121735588/216891607-ff81e7a6-bf0b-4e6a-9531-7898513d155d.png)
+
+</details>
+
+<br>
+<br>
+<br>
+
+# Tableau Public
+
+
 <a href="https://cameroncss.github.io/Data-Analysis/Netflix/index.html" target="new">Netflix Movies and TV Shows</a>
 <br>
 &nbsp; &nbsp;:arrow_right_hook: - Built out multiple sheets to display on a single visual, and created an interactive dashboard.
@@ -41,6 +90,7 @@
 ----
 
 ### View My Other Projects
+---
  <sub>**Click arrow to view content*</sub>
  
 <details>
