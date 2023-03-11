@@ -19,8 +19,7 @@
 
 ## Working in Excel
 
-<a href="https://www.youtube.com/@AlexTheAnalyst">Alex the Analyst</a> provided a Bike sales dataset in excel to play with.
-I explored the data, cleaned a few columns, and made a few new columns to get some data I could use to build out our dashboard and slicers.
+<a href="https://www.youtube.com/@AlexTheAnalyst">Alex the Analyst</a> provided a Bike sales dataset in excel to play with. I explored the data, cleaned and reformatted data, and made a few new columns to get some data I could use to build out our dashboard and slicers.
 
 <br>
 
