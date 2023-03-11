@@ -12,7 +12,7 @@
    <br><sup>:arrow_down: [Download xlsx] :arrow_down:</sup>
    <br> 
       <sup> :small_blue_diamond:
-   <a href="https://github.com/CameronCSS/Data-Analysis/raw/main/Power-BI-Dashboards/Data%20Professional%20Survey/data%20survey%20results.pbix" target="_blank">Bike Sales Dashboard</a></sup>
+   <a href="https://github.com/CameronCSS/Data-Analysis/raw/main/Excel%20Projects/Bike%20Sales%20Dashboard/Bike%20Sales%20Dataset.xlsx" target="_blank">Bike Sales Dashboard</a></sup>
  <br>
   <sub><a href="https://cameroncss.com/#contact">:wavy_dash: Contact me :wavy_dash:</a></sub>
 <br>
