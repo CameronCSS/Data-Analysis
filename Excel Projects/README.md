@@ -29,7 +29,7 @@
  
 ## Excel Projects
 
-<a href="https://github.com/CameronCSS/Data-Analysis/blob/main/Power-BI-Dashboards/Data%20Professional%20Survey/README.md" target="new">Bike Sales Dashboard</a>
+<a href="https://github.com/CameronCSS/Data-Analysis/tree/main/Excel%20Projects/Bike%20Sales%20Dashboard" target="new">Bike Sales Dashboard</a>
 <br>
 &nbsp; &nbsp;:arrow_right_hook: - Using a dataset from Alex the Analyst, Cleaned the data, altered columns to get data I need, used pivot tables and charts to build out a dashboard.
 
