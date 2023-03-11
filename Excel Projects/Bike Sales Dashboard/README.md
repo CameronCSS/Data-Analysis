@@ -3,7 +3,11 @@
 
 <img src="https://user-images.githubusercontent.com/121735588/224469034-e50d75e8-b486-4ae5-b33d-98caca611af2.png" alt="Logo" height="200">
 
-
+   <br><sup>:arrow_down: [Download xlsx] :arrow_down:</sup>
+   <br> 
+      <sup> :small_blue_diamond:
+   <a href="https://github.com/CameronCSS/Data-Analysis/raw/main/Excel%20Projects/Bike%20Sales%20Dashboard/Bike%20Sales%20Dataset.xlsx" target="_blank">Bike Sales Dashboard.xlsx</a></sup>
+ <br>
    <sub><a href="#Contact">:wavy_dash: Contact Info :wavy_dash:</a></sub>
 <br>
     <br>
