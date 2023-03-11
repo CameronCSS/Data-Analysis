@@ -86,11 +86,21 @@ _{Dashboard Preview}_ :arrow_heading_down:
   <br>
 &nbsp; &nbsp;:arrow_right_hook: - Utilized API calls to gather data from public sources. Built a local DB to use in Power BI to uncover valuable insights.
   <br>
+  <br>
+  <br>
+  
+  
+# [Excel](https://github.com/CameronCSS/Data-Analysis/tree/main/Excel%20Projects)
+
+<a href="https://github.com/CameronCSS/Data-Analysis/tree/main/Excel%20Projects/Bike%20Sales%20Dashboard" target="new">Bike Sales Dashboard</a>
+<br>
+&nbsp; &nbsp;:arrow_right_hook: - Using a dataset from Alex the Analyst, Cleaned the data, altered columns to get data I need, used pivot tables and charts to build out a dashboard.
+
 
 ----
 
 ### View My Other Projects
----
+
  <sub>**Click arrow to view content*</sub>
  
 <details>
