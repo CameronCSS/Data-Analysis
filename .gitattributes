@@ -17,3 +17,6 @@
 *.py linguist-detectable=true
 *.py linguist-documentation=false
 *.py linguist-language=python
+
+*.html linguist-detectable=false
+*.html linguist-documentation=true
