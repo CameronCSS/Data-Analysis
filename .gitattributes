@@ -1,21 +1,21 @@
-*.js linguist-detectable=true
-*.js linguist-documentation=false
+*.js linguist-detectable=false
+*.js linguist-documentation=true
 *.js linguist-language=javascript
 
-*.sql linguist-detectable=true
-*.sql linguist-documentation=false
+*.sql linguist-detectable=false
+*.sql linguist-documentation=true
 *.sql linguist-language=sql
 
-*.html linguist-detectable=true
-*.html linguist-documentation=false
+*.html linguist-detectable=false
+*.html linguist-documentation=true
 *.html linguist-language=html
 
-*.css linguist-detectable=true
-*.css linguist-documentation=false
+*.css linguist-detectable=false
+*.css linguist-documentation=true
 *.css linguist-language=css
 
-*.py linguist-detectable=true
-*.py linguist-documentation=false
+*.py linguist-detectable=false
+*.py linguist-documentation=true
 *.py linguist-language=python
 
 *.html linguist-detectable=false
