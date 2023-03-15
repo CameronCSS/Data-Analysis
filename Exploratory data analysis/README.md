@@ -22,51 +22,21 @@
     Just give me a question you need answered that can be solved with data."
 
 
-<br>
-
-<br>
-
 ----
 
 ### I will be taking an assortment of its scenario questions and storing my results in this REPO.
 
 ---
 
-**EDA Project # 1: Customer Churn**
+**[EDA Project # 1:](https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis/EDA%20%23%201)  Customer Churn**
 
-CHATgpt's Scenario Question:
+<sup>**Click to View project*</sup>
+
+CHATgpt's Scenario Question: :arrow_heading_down:
 
 <img src="https://user-images.githubusercontent.com/121735588/225174521-c16ef880-80b2-4ad0-9b44-c3b162e3afd9.JPG"  width="600">
 
 <br>
-
-Click [HERE]() to View the full project
-
-----
-### How do we answer this question?
-
-**Since I do not have company data. I need to go find a data set that can help me answer the Question.**
-I found a data set on [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) about "Telco customer churn"
-
-
-This seems like it MIGHT have the data I need.
-
-### First I run the data through my favorite Exploratory report generator, ydata in Python
-
-```python
-import numpy as np
-import pandas as pd
-from ydata_profiling import ProfileReport
-
-df = pd.read_csv("Telco.csv")
-profile = ProfileReport(df,title = "Telco Customer Churn")
-profile.to_file('Telco_Report.html')
-```
-
-This gives a super detailed overview of what the data looks like and it only takes a few seconds to run.
-
-### First looks at the data
-
 
 
 
