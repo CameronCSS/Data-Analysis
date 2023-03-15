@@ -11,7 +11,7 @@
 
 <br>
 
-:large_blue_diamond: CHATgpt's Scenario Question:
+CHATgpt's Scenario Question: :arrow_heading_down:
 
 <img src="https://user-images.githubusercontent.com/121735588/225174521-c16ef880-80b2-4ad0-9b44-c3b162e3afd9.JPG"  width="600">
 
