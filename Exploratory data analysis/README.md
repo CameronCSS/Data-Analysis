@@ -28,9 +28,7 @@
 
 ---
 
-**[EDA Project # 1:](https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis/EDA%20%23%201)  Customer Churn**
-
-<sup>**Click to View project*</sup>
+**[EDA Project # 1:](https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis/EDA%20%23%201)  Customer Churn** 
 
 CHATgpt's Scenario Question: :arrow_heading_down:
 
