@@ -32,7 +32,7 @@
 
 CHATgpt's Scenario Question: :arrow_heading_down:
 
-<img src="https://user-images.githubusercontent.com/121735588/225174521-c16ef880-80b2-4ad0-9b44-c3b162e3afd9.JPG"  width="600">
+<img src="https://user-images.githubusercontent.com/121735588/225485533-ca1c5036-9b70-4655-ab10-56ffc65a94c4.png"  width="600">
 
 <br>
 
