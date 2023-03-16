@@ -36,7 +36,7 @@ CHATgpt's Scenario Question: :arrow_heading_down:
 
 <br>
 
-**[View EDA Project # 2:](#404)  Purchase Patterns**  (WIP)
+**[View EDA Project # 2:](https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis/EDA%20%232)  Purchase Patterns**  (WIP)
 
 CHATgpt's Scenario Question: :arrow_heading_down:
 
@@ -44,7 +44,7 @@ CHATgpt's Scenario Question: :arrow_heading_down:
 
 <br>
 
-**[View EDA Project # 3:](#404)  Employee Turnover** (WIP)
+**[View EDA Project # 3:](https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis/EDA%20%23%203)  Employee Turnover** (WIP)
 
 CHATgpt's Scenario Question: :arrow_heading_down:
 
