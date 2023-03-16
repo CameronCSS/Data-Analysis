@@ -17,7 +17,7 @@
 
   
     "I am a Data Analyst. Can you act as a fake client and give me a question you need answered. 
-    Dont tell me where to get the data or how to sovle it. 
+    Dont tell me where to get the data or how to solve it. 
     
     Just give me a question you need answered that can be solved with data."
 
