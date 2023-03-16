@@ -40,7 +40,107 @@ I found a Dataset on [Maven Analytics](https://www.mavenanalytics.io/data-playgr
 
 I believe this will be the perfect Data to explore to answer the Scenario Question.
 
-###
+### :arrow_forward: Loading the Data into SQL server
+
+The data is set up in as a relational database. The best way to explore it will be through SQL.
+
+![pizza data](https://user-images.githubusercontent.com/121735588/225492051-69dad4ef-4270-4260-8ee4-d6613c85e331.JPG)
+
+:hash: CREATE our DATABASE and TABLES in SQL
+
+<sub>:arrow_down: **Click to view code* </sub>
+
+<details>
+<summary>SQL code</summary>
+
+<br>
+
+```SQL
+CREATE DATABASE pizza_sales;
+
+USE pizza_sales;
+
+CREATE TABLE order_details (
+    order_details_id INT,
+    order_id INT,
+    pizza_id VARCHAR(50),
+    quantity INT
+);
+
+BULK INSERT order_details
+FROM 'order_details.csv'
+WITH (
+    FIELDTERMINATOR = ',',
+    ROWTERMINATOR = '\n',
+    FIRSTROW = 2
+);
+
+CREATE TABLE orders (
+    order_id INT,
+    date DATE,
+    time DATETIME
+);
+
+BULK INSERT orders
+FROM 'orders.csv'
+WITH (
+    FIELDTERMINATOR = ',',
+    ROWTERMINATOR = '\n',
+    FIRSTROW = 2
+);
+
+CREATE TABLE pizza_types (
+    pizza_type_id VARCHAR(50),
+    name VARCHAR(50),
+    category VARCHAR(50),
+	ingredients VARCHAR(100)
+);
+
+BULK INSERT pizza_types
+FROM 'pizza_types.csv'
+WITH (
+    FIELDTERMINATOR = ',',
+    ROWTERMINATOR = '\n',
+    FIRSTROW = 2
+);
+
+CREATE TABLE pizzas (
+    pizza_id VARCHAR(50),
+    pizza_type_id VARCHAR(50),
+    size VARCHAR(50),
+	price FLOAT
+);
+
+BULK INSERT pizzas
+FROM 'pizzas.csv'
+WITH (
+    FIELDTERMINATOR = ',',
+    ROWTERMINATOR = '\n',
+    FIRSTROW = 2
+);
+```
+
+</details>
+
+
+Lets double check our data to make sure it took
+
+```SQL
+SELECT TOP 5 * FROM pizzas;
+```
+
+### Results :arrow_heading_down:
+
+![pizza check data](https://user-images.githubusercontent.com/121735588/225496103-a6514ef0-c49c-45ec-ae72-84351d9f3446.JPG)
+
+
+It seems our data is loaded in our SQL database. Now lets begin exploring the data to see if we can answer our question.
+
+
+## Data Exploring
+
+
+
 
 # WIP
 
