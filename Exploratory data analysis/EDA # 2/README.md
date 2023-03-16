@@ -36,6 +36,26 @@ CHATgpt's Scenario Question: :arrow_heading_down:
 ----
 ## How do we answer this question?
 
+I found a Dataset on [Maven Analytics](https://www.mavenanalytics.io/data-playground) that contains "A year's worth of sales from a fictitious pizza place."
 
+I believe this will be the perfect Data to explore to answer the Scenario Question.
+
+###
 
 # WIP
+
+
+----
+
+<a name="Contact"></a> 
+## <a href="https://cameroncss.com/#contact">Contact Me</a>
+
+  </table>
+  <p style="margin-left: auto;">
+    <a href="https://docs.google.com/document/d/1idTVL4nRGOejqW6EkpfhsD-dNQRLzmX08y5hI3TYLns/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+      <img src="https://user-images.githubusercontent.com/121735588/215364205-abdfc0ac-53db-4733-8d43-b57c1bafb802.png" alt="Resume button">
+    </a>
+  </p>
+</div>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
