@@ -36,6 +36,22 @@ CHATgpt's Scenario Question: :arrow_heading_down:
 
 <br>
 
+**[View EDA Project # 2:](#404)  Purchase Patterns**  (WIP)
+
+CHATgpt's Scenario Question: :arrow_heading_down:
+
+<img src="https://user-images.githubusercontent.com/121735588/225486786-56f78f66-624e-4840-8325-33e82a949599.png"  width="600">
+
+<br>
+
+**[View EDA Project # 3:](#404)  Employee Turnover** (WIP)
+
+CHATgpt's Scenario Question: :arrow_heading_down:
+
+<img src="https://user-images.githubusercontent.com/121735588/225486760-222e0dd7-672c-497f-9476-71417de041e0.png"  width="600">
+
+<br>
+
 
 
 ----
