@@ -84,7 +84,7 @@ _{Dashboard Preview}_ :arrow_heading_down:
 <br>
 <a href="https://github.com/CameronCSS/Data-Analysis/tree/main/SLC%20civilian%20complaints" target="new">SLC civilian complaints</a>
   <br>
-&nbsp; &nbsp;:arrow_right_hook: - Utilized API calls to gather data from public sources. Built a local DB to use in Power BI to uncover valuable insights.
+&nbsp; &nbsp;:arrow_right_hook: - Utilized API calls to gather data from public sources. Built a local DB to use in Tableau to uncover valuable insights.
   <br>
   <br>
   <br>
