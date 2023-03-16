@@ -28,7 +28,7 @@
 
 CHATgpt's Scenario Question: :arrow_heading_down:
 
-<img src="https://user-images.githubusercontent.com/121735588/225174521-c16ef880-80b2-4ad0-9b44-c3b162e3afd9.JPG"  width="600">
+<img src="https://user-images.githubusercontent.com/121735588/225485533-ca1c5036-9b70-4655-ab10-56ffc65a94c4.png"  width="600">
 
 
 <p align="left"><a href="#results">:heavy_exclamation_mark: View Final results and skip the Breakdown</a></p>
@@ -148,6 +148,16 @@ Finally one of our original Hypothesis was correct. The chart reveals a strong c
 
 <a name="results"></a>
 # Results
+
+### Reminder what the Original Question was
+
+
+CHATgpt's Scenario Question: :arrow_heading_down:
+
+<img src="https://user-images.githubusercontent.com/121735588/225485533-ca1c5036-9b70-4655-ab10-56ffc65a94c4.png"  width="600">
+
+
+<br>
 
 Finally we gather insights from the Data, and begin to develop our businsess plan of action.
 
