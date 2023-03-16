@@ -28,7 +28,7 @@
 
 ---
 
-:large_blue_circle: **[EDA Project # 1:](https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis/EDA%20%23%201)  Customer Churn** 
+:large_blue_circle: **[EDA Project # 1:](https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis/EDA%20%23%201%20Customer%20Churn)  Customer Churn** 
 
 CHATgpt's Scenario Question: :arrow_heading_down:
 
@@ -36,7 +36,7 @@ CHATgpt's Scenario Question: :arrow_heading_down:
 
 <br>
 
-:large_blue_circle: **[EDA Project # 2:](https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis/EDA%20%23%202)  Purchase Patterns**  (WIP)
+:large_blue_circle: **[EDA Project # 2:](https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis/EDA%20%23%202%20Purchase%20Patterns)  Purchase Patterns**  (WIP)
 
 CHATgpt's Scenario Question: :arrow_heading_down:
 
@@ -44,7 +44,7 @@ CHATgpt's Scenario Question: :arrow_heading_down:
 
 <br>
 
-:large_blue_circle: **[EDA Project # 3:](https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis/EDA%20%23%203)  Employee Turnover** (WIP)
+:large_blue_circle: **[EDA Project # 3:](https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis/EDA%20%23%203%20Employee%20Turnover)  Employee Turnover** (WIP)
 
 CHATgpt's Scenario Question: :arrow_heading_down:
 
