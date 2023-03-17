@@ -97,6 +97,19 @@ _{Dashboard Preview}_ :arrow_heading_down:
 &nbsp; &nbsp;:arrow_right_hook: - Using a dataset from Alex the Analyst, Cleaned the data, altered columns to get data I need, used pivot tables and charts to build out a dashboard.
 
 
+# [Exploratory data analysis](https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis)
+
+I have been trying to do Data Exploration every day. I start by asking CHATgpt this Question:
+
+  
+    "I am a Data Analyst. Can you act as a fake client and give me a question you need answered. 
+    Dont tell me where to get the data or how to solve it. 
+    
+    Just give me a question you need answered that can be solved with data."
+    
+    
+You can view all the different EDA projects using various technologies like Excel, R, and Python in the EDA repo [HERE](https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis)
+
 ----
 
 ### View My Other Projects
