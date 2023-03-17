@@ -282,6 +282,7 @@ Have we discovered any Customer Trends? Possible favorite pizzas?
 ![hawaiian vs pep](https://user-images.githubusercontent.com/121735588/225814034-a05473dd-b556-4bda-aee4-ce88f1aadc67.JPG)
 
 
+### :large_blue_diamond: You can view all the SQL code I've used to explore the Database [HERE](https://github.com/CameronCSS/SQL-Queries/blob/main/EDA_2_RAW.SQL)
 
 ----
 
