@@ -36,7 +36,7 @@ CHATgpt's Scenario Question: :arrow_heading_down:
 
 <br>
 
-:large_blue_circle: **[EDA Project # 2:](https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis/EDA%20%23%202%20Purchase%20Patterns)  Purchase Patterns**  (WIP)
+:large_blue_circle: **[EDA Project # 2:](https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis/EDA%20%23%202%20Purchase%20Patterns)  Purchase Patterns**
 
 CHATgpt's Scenario Question: :arrow_heading_down:
 
