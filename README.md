@@ -110,6 +110,11 @@ I have been trying to do Data Exploration every day. I start by asking CHATgpt t
     
 You can view all the different EDA projects using various technologies like Excel, R, and Python in the EDA repo [HERE](https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis)
 
+# R* Data Projects
+<a href="https://github.com/CameronCSS/Programming-Languages/tree/main/Comparing%20Phone%20Prices%20in%20R" target="new">Comparing Phone Prices in R</a>
+
+&nbsp; &nbsp;:arrow_right_hook: - Explored and cleaned a cell phone price dataset found on [Kaggle](https://www.kaggle.com/datasets/rkiattisak/mobile-phone-price).
+
 ----
 
 ### View My Other Projects
