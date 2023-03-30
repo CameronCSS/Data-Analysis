@@ -117,6 +117,42 @@ This will save you from any performance issues or other headaches in the future.
 <br>
 ###### *(IF this data is updated live you will need to leave formulas, or document your formulas so you can adjust new data accordingly)*
 
+----
+
+### When I finsih all my Data prep I like to run my data through 'ydata_profiling' to give me a good overview of the data.
+
+the Python code to run the report
+
+```python
+import numpy as np
+import pandas as pd
+from ydata_profiling import ProfileReport
+
+df = pd.read_csv("\\HR-Employee-Attrition.csv", encoding='ISO-8859-1')
+profile = ProfileReport(df,title = "Employee Report")
+profile.to_file("Employee Report")
+```
+
+Snippets from the report :arrow_heading_down:
+
+### Attrition
+
+<img src="https://user-images.githubusercontent.com/121735588/228702858-71129127-5e8b-4a62-b037-f621a534b18b.png"  width="600">
+
+### Job Satisfaction
+
+<img src="https://user-images.githubusercontent.com/121735588/228703122-4a9d925a-9322-4dd0-b490-eb205163d214.png"  width="400">
+
+### Monthly Income
+
+<img src="https://user-images.githubusercontent.com/121735588/228703467-ae184fd6-24f3-4715-bfbc-e2e7a9b45d11.png"  width="400">
+
+### Correlation
+
+<img src="https://user-images.githubusercontent.com/121735588/228704922-d8ffbe38-f248-4c07-8198-662363beef51.png"  width="600">
+
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Import to Tableau
@@ -124,6 +160,9 @@ This will save you from any performance issues or other headaches in the future.
 Now that we have clean / prepared Data lets bring it into Tableau and start looking through it.
 
 WIP
+
+
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
