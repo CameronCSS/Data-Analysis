@@ -115,6 +115,14 @@ I challenged myself to do a New Data Exploration Project every week. I start by 
     
 You can view all the different EDA projects using various technologies like Excel, R, and Python in the EDA repo [HERE](https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis)
 
+# MoM and WoW
+
+Makeover Mondays and Workout Wednesday are weekly challenges designed to kick-start personal development in Data driven visualizatons.
+
+[Makeover Mondays](https://github.com/CameronCSS/Data-Analysis/tree/main/Makeover%20Mondays)
+
+[Workout Wednesday](https://github.com/CameronCSS/Data-Analysis/tree/main/Workout%20Wednesday)
+
 ----
 
 ### View My Other Projects
