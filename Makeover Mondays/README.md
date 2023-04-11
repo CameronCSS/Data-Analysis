@@ -21,7 +21,7 @@
  
 ## MoM Projects
 
-<a href="dougsscore link" target="new">DougScore Car ranking</a>
+<a href="https://github.com/CameronCSS/Data-Analysis/tree/main/Makeover%20Mondays/Dougscore%20Car%20ratings" target="new">DougScore Car ranking</a>
 <br>
 &nbsp; &nbsp;:arrow_right_hook: - A dataset full of Dougs personal Car rankings.
 Used Excel to clean and organize the data. And tableau to visualize.
