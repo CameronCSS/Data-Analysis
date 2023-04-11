@@ -44,6 +44,15 @@ Used Excel to clean and organize the data. And tableau to visualize.
   <br>
 &nbsp; &nbsp;:arrow_right_hook: - Utilized API calls to gather data from public sources. Built a local DB to use in Power BI to uncover valuable insights.
   <br>
+  <br>
+<a href="https://github.com/CameronCSS/Data-Analysis/blob/main/Power-BI-Dashboards/Data%20Professional%20Survey/README.md" target="new">Data Professional Survey</a>
+<br>
+&nbsp; &nbsp;:arrow_right_hook: - Explored complex queries to clean data, compute customer figures, and organize data in unusual ways.
+<br>
+<br>
+<a href="https://github.com/CameronCSS/Data-Analysis/blob/main/Power-BI-Dashboards/AdventureWorks/README.md" target="new">Adventure Works Dashboard</a>
+<br>
+&nbsp; &nbsp;:arrow_right_hook: - Created a dashboard for a fictional manager using the Adventure Works sample database, which involved restoring the database, identifying data needs, cleaning and transforming the data, and importing it into Power BI.
 </details>
 <br>
 
