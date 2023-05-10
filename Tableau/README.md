@@ -22,7 +22,7 @@
 :ballot_box_with_check: Experience in building live dashboards
  <br> :ballot_box_with_check: Knowledge in using various dataflow and import methods to showcase live data
  <br> :ballot_box_with_check: Developed reports for company management showcasing sales performance over the last four years.
- <br> :ballot_box_with_check: Completed the DataCamp Intro to Power BI course
+ <br> :ballot_box_with_check: Create custom measures and integrate with graphics
  
 ## Tableau Projects
 
