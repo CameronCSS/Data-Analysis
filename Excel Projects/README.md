@@ -47,11 +47,11 @@ _{Dashboard Preview}_ :arrow_heading_down:
 </details>
 <br>
 
-<a href="" target="new">Customer Churn</a>
+<a href="https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis/EDA%20%23%201%20Customer%20Churn" target="new">Customer Churn</a>
 <br>
 &nbsp; &nbsp;:arrow_right_hook: - I found a data set on [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) about "Telco customer churn"
 
-<sub>**Click arrow to view insightsgit *</sub>
+<sub>**Click arrow to view insights*</sub>
 <details>
 <summary>Customer Churn Insights</summary>
 <br>
