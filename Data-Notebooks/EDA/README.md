@@ -16,7 +16,7 @@
 
 ---
 
-:large_blue_circle: **[WIP: Linkedin Job Listings]()
+:large_blue_circle: **[WIP: Linkedin Job Listings](https://github.com/CameronCSS/Data-Analysis/tree/main/Data-Notebooks/EDA/Linkedin%20Job%20Listings)**
 
 
 <br>
