@@ -60,13 +60,13 @@ _{Insights}_ :arrow_heading_down:
 <br>
 <br>
 
-▶️ The higher the Avg. cost, there is a direct relation to how many customers cancel their service.
+▶️ The higher the Avg. cost, there is a direct relation to how many customers cancel their service. <br>
 ✅ Possible Solution: Work on loyalty programs that lower the cost for customers who stay, or lower all costs across the board.
 
-▶️ The data also suggests that customers do not like the method of collecting Electronic Checks.
+▶️ The data also suggests that customers do not like the method of collecting Electronic Checks. <br>
 ✅ Possible Solution: Streamline the process to avoid frustration, Stop Accepting Electronic checks.
 
-▶️ Customers are not satisfied with Fiber internet service. DSL, by contrast, has a staying power of 81%.
+▶️ Customers are not satisfied with Fiber internet service. DSL, by contrast, has a staying power of 81%. <br>
 ✅ Possible Solution: Look into Fiber service to see if cost is too high, maybe reliability is an issue.
 
 </details>
