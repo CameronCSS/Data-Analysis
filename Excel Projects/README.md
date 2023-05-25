@@ -47,6 +47,31 @@ _{Dashboard Preview}_ :arrow_heading_down:
 </details>
 <br>
 
+<a href="" target="new">Customer Churn</a>
+<br>
+&nbsp; &nbsp;:arrow_right_hook: - I found a data set on [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) about "Telco customer churn"
+
+<sub>**Click arrow to view insightsgit *</sub>
+<details>
+<summary>Customer Churn Insights</summary>
+<br>
+
+_{Insights}_ :arrow_heading_down:
+<br>
+<br>
+
+▶️ The higher the Avg. cost, there is a direct relation to how many customers cancel their service.
+✅ Possible Solution: Work on loyalty programs that lower the cost for customers who stay, or lower all costs across the board.
+
+▶️ The data also suggests that customers do not like the method of collecting Electronic Checks.
+✅ Possible Solution: Streamline the process to avoid frustration, Stop Accepting Electronic checks.
+
+▶️ Customers are not satisfied with Fiber internet service. DSL, by contrast, has a staying power of 81%.
+✅ Possible Solution: Look into Fiber service to see if cost is too high, maybe reliability is an issue.
+
+</details>
+<br>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
