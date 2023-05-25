@@ -1,12 +1,12 @@
 <a name="readme-top"></a>
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/121735588/230251107-9d79cd40-2d07-4dfd-b05b-b26f8d08921f.png" alt="JupyterLogo" width="200">
+  <img src="https://github.com/CameronCSS/Data-Analysis/assets/121735588/928f4889-abe2-4f43-9953-03ecb4f82b2d" alt="JupyterLogo" width="200">
+
 
 
   <h2 align="center">Data Notebooks</h2>
-  <p align="center">Programming-Languages
-  All of my Data Notebook code :computer: and practice projects will be here.
+  <p align="center">All of my Data Notebook code :computer: and practice projects will be here.
 <br>
     <br>
     <a href="https://github.com/CameronCSS/Data-Analysis"><strong>« Back to Data-Analysis</strong></a>
@@ -16,6 +16,7 @@
 # Notebooks
 〰️ The more I dive into Python projects the more I realize how powerful it can be for Data analysis. Notebooks also increase your ability to test theories by allowing you to break
 up the chunks of code and run them in sections. <br>
+<br>
 I look forward to a future where Notebooks / Python, and my Data analysis take me on a journey in this wonderful world of Data.
 
 # Here are just a few of my Data Notebooks
@@ -48,9 +49,6 @@ ax.set_ylabel('Count')
 You can find Rob's profile on kaggle [here](https://www.kaggle.com/robikscube)
 
 This is the first Kaggle competition I have entered, and the first time I have tried using predictive models.
-
-##### ▶️ You can view the full current model and output of my Entry [HERE](https://github.com/CameronCSS/Programming-Languages/blob/main/Data%20Notebooks/rob-sleep-predictions.ipynb)
-
 
 ### Data Preview :
 
