@@ -131,7 +131,7 @@ Makeover Mondays and Workout Wednesday are weekly challenges designed to kick-st
  
 <details>
   <summary>SQL Queries</summary>
-<a href="https://github.com/CameronCSS/SQL-Queries/tree/main/8%20Week%20SQL%20Challenge%20%23%201" target="new">8 Week SQL Challenge # 1</a>
+<a href="https://github.com/CameronCSS/SQL-Queries/tree/main/8%20Weeks%20of%20SQL/8%20Week%20SQL%20Challenge%20%23%201" target="new">8 Week SQL Challenge # 1</a>
 <br>
 &nbsp; &nbsp;:arrow_right_hook: - Explored complex queries to clean data, compute customer figures, and organize data in unusual ways.
 <br>
