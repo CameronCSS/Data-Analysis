@@ -6,7 +6,7 @@
   <sub><a href="https://cameroncss.com/#contact">:wavy_dash: Contact me :wavy_dash:</a></sub>
 <br>
     <br>
-     <a href="https://github.com/CameronCSS/Data-Analysis/blob/main/Power-BI-Dashboards/README.md"><strong>« Back to Power BI dashboards</strong></a>
+     <a href="https://github.com/CameronCSS/PersonalProjects"><strong>« Back to Project Portfolio</strong></a>
   </p>
 </div>
 
