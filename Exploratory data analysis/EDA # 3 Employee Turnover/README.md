@@ -9,7 +9,7 @@
   <sub><a href="https://cameroncss.com/#contact">:wavy_dash: Contact me :wavy_dash:</a></sub>
 <br>
     <br>
-     <a href="https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis"><strong>« Back to Exploratory Data Analysis</strong></a>
+     <a href="https://github.com/CameronCSS/PersonalProjects"><strong>« Back to Project Portfolio</strong></a>
   </p>
 </div>
 
