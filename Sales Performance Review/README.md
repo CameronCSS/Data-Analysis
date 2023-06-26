@@ -17,10 +17,7 @@ Overall, this dashboard provides a valuable overview of our sales performance ov
 
 ----
 
-<a href="https://github.com/CameronCSS/Data-Analysis/blob/main/README.md"><strong>« Back to Data Projects</strong></a>
-<br>
-<br>
-<a href="https://github.com/CameronCSS/PersonalProjects/blob/main/README.md"><strong>« Back to Portfolio</strong></a>
+<a href="https://github.com/CameronCSS/PersonalProjects"><strong>« Back to Project Portfolio</strong></a>
 
 ## Contact Me
 
