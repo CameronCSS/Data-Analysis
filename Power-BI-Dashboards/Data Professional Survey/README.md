@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/121735588/216897500-3d7e2149-1de5-4c23-939f-db423af70d6a.png" alt="Logo" height="200">
 
 
-   <sub><a href="#Contact">:wavy_dash: Contact Info :wavy_dash:</a></sub>
+   <sub><a href="#Contact">Contact Info</a></sub>
 <br>
     <br>
      <a href="https://github.com/CameronCSS/PersonalProjects"><strong>« Back to Project Portfolio</strong></a>
