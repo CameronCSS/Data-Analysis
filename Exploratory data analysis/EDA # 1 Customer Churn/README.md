@@ -43,7 +43,7 @@ I found a data set on [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-c
 
 This seems like it MIGHT have the data I need.
 
-### :arrow_forward: First I run the data through my favorite Exploratory report generator, ydata in Python
+### First I run the data through my favorite Exploratory report generator, ydata in Python
 
 ```python
 import numpy as np
