@@ -6,7 +6,7 @@
 
   <p align="center">
     
-  <sub><a href="https://cameroncss.com/#contact">:wavy_dash: Contact me :wavy_dash:</a></sub>
+  <sub><a href="https://cameroncss.com/#contact">Contact Me</a></sub>
 <br>
     <br>
      <a href="https://github.com/CameronCSS/PersonalProjects"><strong>« Back to Project Portfolio</strong></a>
