@@ -6,7 +6,7 @@
 
   <p align="center">
     
-  <sub><a href="https://cameroncss.com/#contact">:wavy_dash: Contact me :wavy_dash:</a></sub>
+  <sub><a href="https://cameroncss.com/#contact">Contact me</a></sub>
 <br>
     <br>
      <a href="https://github.com/CameronCSS/PersonalProjects"><strong>« Back to Project Portfolio</strong></a>
@@ -26,7 +26,7 @@
 
 <br>
 
-CHATgpt's Scenario Question: :arrow_heading_down:
+CHATgpt's Scenario Question:
 
 <img src="https://user-images.githubusercontent.com/121735588/225486760-222e0dd7-672c-497f-9476-71417de041e0.png"  width="600">
 
@@ -78,7 +78,7 @@ I noticed while cleaning the data that EmployeeNumber is a unique identifier... 
 For instance. I put both the Age and the Monthly Income into buckets. There were so many unique values that viewing the data like that would be very messy and hard to understand.
 
 
-:arrow_down: Formula I used to put Age into buckets. :arrow_down:
+Formula I used to put Age into buckets.
 <br>
 
 ###### _You could also create a value table and use Vlookup to do this. I will show both ways_
