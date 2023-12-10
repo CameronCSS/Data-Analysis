@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/121735588/225173450-1eec50fc-5e37-4d9a-97e4-b55e01f96840.jpg"  height="200">
   <p align="center">
     
-  <sub><a href="https://cameroncss.com/#contact">:wavy_dash: Contact me :wavy_dash:</a></sub>
+  <sub><a href="https://cameroncss.com/#contact">Contact me</a></sub>
 <br>
     <br>
      <a href="https://github.com/CameronCSS/Data-Analysis"><strong>« Back to Data-Analysis</strong></a>
