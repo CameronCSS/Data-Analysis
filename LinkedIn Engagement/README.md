@@ -5,7 +5,7 @@
 
 <a href="https://github.com/CameronCSS/PersonalProjects"><strong>« Back to Project Portfolio</strong></a>
 
-   <sub><a href="#Contact">:wavy_dash: Contact Info :wavy_dash:</a></sub>
+   <sub><a href="#Contact">Contact Info</a></sub>
 <br>
     <br>
   </p>
