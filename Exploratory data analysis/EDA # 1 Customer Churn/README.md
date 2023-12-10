@@ -57,7 +57,7 @@ profile.to_file('Telco_Report.html')
 
 This gives an HTML file with a detailed overview of what the data looks like... and it only takes a few seconds to run.
 
-### :arrow_down: First looks at the data :arrow_down:
+### First looks at the data :arrow_down:
 
 <img src="https://user-images.githubusercontent.com/121735588/225391730-faa858ae-a5e1-4d35-8420-7c9bf34fac3c.JPG"  width="400">
 
@@ -125,7 +125,7 @@ The new chart clearly shows that when compared to Non-Senior customers, seniors 
 
 ## Next Hypothesis to test.
 
-#### __:large_blue_diamond: Does having dependants put strain on the budget causing customers to cancel ?__
+#### __ Does having dependants put strain on the budget causing customers to cancel ?__
 
 <img src="https://user-images.githubusercontent.com/121735588/225462407-6ed4cd69-3dff-4fb1-8be3-44cbc734fa91.JPG"  height="300"> <img src="https://user-images.githubusercontent.com/121735588/225462425-76ef7204-d947-4dbd-946c-5233170d3329.JPG"  height="300">
 
@@ -135,7 +135,7 @@ This is just another example of why it is important to look at the data before d
 
 ## Last Hypothesis to test.
 
-#### __:large_blue_diamond: Do long standing customers want to continue their service ?__
+#### __ Do long standing customers want to continue their service ?__
 
 <img src="https://user-images.githubusercontent.com/121735588/225466054-12219b26-e170-48c3-a98b-35aadc9eaa15.JPG"  height="300">
 
