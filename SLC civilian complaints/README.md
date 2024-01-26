@@ -62,7 +62,9 @@ When we compare that to the amount of complaints the numbers seem even more skew
 <br>
 <a href="https://github.com/CameronCSS/PersonalProjects/blob/main/README.md"><strong>« Back to Portfolio</strong></a>
 
-## <a href="https://cameroncss.com/#contact">Contact Me</a>
+## Contact
+
+<sub><a href="https://camdoesdata.com/#contact">Contact Me</a></sub>
 
   </table>
   <p style="margin-left: auto;">
