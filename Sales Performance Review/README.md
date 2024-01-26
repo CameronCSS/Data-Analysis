@@ -19,7 +19,7 @@ Overall, this dashboard provides a valuable overview of our sales performance ov
 
 <a href="https://github.com/CameronCSS/PersonalProjects"><strong>« Back to Project Portfolio</strong></a>
 
-## Contact Me
+## Contact
 
 <sub><a href="https://camdoesdata.com/#contact">Contact Me</a></sub>
   <p style="margin-left: auto;">
