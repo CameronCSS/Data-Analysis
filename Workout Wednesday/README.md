@@ -11,7 +11,7 @@ Workous Wednesday is a weekly challenge to re-create data driven visualizatons.
     The challenges are designed to kick-start personal development in Tableau and Power BI.
     <br />
 <br>
-  <sub><a href="https://cameroncss.com/#contact">Contact me</a></sub>
+  <sub><a href="https://camdoesdata.com/#contact">Contact Me</a></sub>
 <br>
     <br>
      <a href="https://github.com/CameronCSS/PersonalProjects/blob/main/README.md"><strong>« Back to Portfolio</strong></a>
@@ -102,9 +102,6 @@ Workous Wednesday is a weekly challenge to re-create data driven visualizatons.
 
 <a name="Contact"></a> 
 
-## <a href="https://cameroncss.com/#contact">Contact Me</a>
-
-  </table>
   <p style="margin-left: auto;">
     <a href="https://drive.google.com/file/d/1YaM4hDtt2-79ShBVTN06Y3BU79LvFw6J/view?usp=sharing" target="_blank" rel="noopener noreferrer">
       <img src="https://user-images.githubusercontent.com/121735588/215364205-abdfc0ac-53db-4733-8d43-b57c1bafb802.png" alt="Resume button">
