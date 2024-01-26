@@ -8,7 +8,7 @@
   <h2 align="center">Data Analysis / Visuals</h2>
   <p align="center">
   All of my visual reports :bar_chart:, and data analysis :mag: will be here.
-   <br> <sub><a href="https://cameroncss.com/#contact">Contact me</a></sub>
+   <br> <sub><a href="https://camdoesdata.com/#contact">Contact Me</a></sub>
 <br>
     <br>
      <a href="https://github.com/CameronCSS/PersonalProjects/blob/main/README.md"><strong>« Back to Portfolio</strong></a>
